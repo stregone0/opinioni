@@ -45,5 +45,3 @@ domande = [domanda1, domanda2, domanda3]
 
 # Esecuzione del questionario
 esegui_questionario(domande)
-
-
